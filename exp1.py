@@ -12,7 +12,7 @@ cursor.execute('SELECT * FROM example_table')
 
 rows = cursor.fetchall() # Fetch all rows returned by the query
 
-# Process the retrieved data
+# Process the retrieved 
 
 for row in rows:
 
