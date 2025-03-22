@@ -18,6 +18,6 @@ for row in rows:
 
 print(row) # You can access the columns in the row using row[0], row[1], etc.
 
-# Close the database connection
+
 
 conn.close()
